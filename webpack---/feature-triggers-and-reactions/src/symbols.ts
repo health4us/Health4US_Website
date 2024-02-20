@@ -1,0 +1,10 @@
+export const name = 'triggersAndReactions' as const
+export const ReactionCreatorFactorySymbol = Symbol('ReactionCreatorFactory')
+export const ReactionsStateApiSymbol = Symbol('ReactionsStateApiSymbol')
+export const ClassNameApiSymbol = Symbol('ClassNameApiSymbol')
+export const ViewportIntersectionHandlerSymbol = Symbol('ViewportIntersectionHandlerSymbol')
+export const triggersBreakpointValidatorSymbol = Symbol('triggersBreakpointValidatorSymbol')
+export const MotionEffectsReactionsSymbol = Symbol('MotionEffectsReactions')
+export const scrubReactionsManagerSymbol = Symbol('scrubReactionsManager')
+export const ShouldEnableTriggersAndReactionsSymbol = Symbol('ShouldEnableTriggersAndReactionsSymbol')
+export const ChildListObserverSymbol = Symbol('ChildListObserver')

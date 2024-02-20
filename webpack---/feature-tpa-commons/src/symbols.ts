@@ -1,0 +1,10 @@
+export const name = 'tpaCommons' as const
+export const TpaHandlersManagerSymbol = Symbol('TpaHandlersManager')
+export const MasterPageTpaPropsCacheSymbol = Symbol('TpaPropsCache')
+export const TpaContextMappingSymbol = Symbol('TpaContextMapping')
+export const TpaSrcBuilderSymbol = Symbol('TpaSrcBuilder')
+export const TpaSectionSymbol = Symbol('TpaSection')
+export const TpaDataCapsuleSymbol = Symbol('TpaDataCapsule')
+export const PinnedExternalIdStoreSymbol = Symbol('PinnedExternalIdStore')
+export const TpaSrcUtilitySymbol = Symbol('TpaSrcUtility')
+export const TpaPublicApiManagerSymbol = Symbol('TpaPublicApiPromiseManager')

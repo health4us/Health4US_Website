@@ -1,0 +1,5 @@
+export const TpaHandlerProviderSymbol = Symbol('TpaHandlerProvider')
+export const TpaSrcQueryParamProviderSymbol = Symbol('TpaSrcQueryParamProvider')
+export const TpaPopupSymbol = Symbol('TpaPopup')
+export const TpaModalSymbol = Symbol('TpaModal')
+export const TpaMessageContextPickerSym = Symbol('TpaMessageContextPicker')
